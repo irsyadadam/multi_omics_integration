@@ -1,5 +1,5 @@
 # Multi-omics integration
-Lead: Eric Zhang
+Lead: Eric Zhang\
 Code Author: Irsyad
 
 ### [double_injury_analysis.ipynb]
