@@ -1,0 +1,3 @@
+# ignore the rds double injusry file (1gb)
+*.rds
+*rdata 
