@@ -11,4 +11,4 @@ TODO:
     - find potential loci with abnormal gene expression
     - map gene expression to cell cycle data, find state of cardiomyocytes
 
-    [double_injury_analysis.ipynb]: /double_injury_analysis.ipynb
+   [double_injury_analysis.ipynb]: /double_injury_analysis.ipynb
